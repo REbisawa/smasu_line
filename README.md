@@ -1,6 +1,5 @@
 # smasu_line 🐳
 
-![License](https://img.shields.io/github/license/ucan-lab/docker-laravel?color=f05340)
 
 ## Introduction
 
